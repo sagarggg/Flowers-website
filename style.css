@@ -1,0 +1,46 @@
+/* styling of navbar, color, font-family and background color */
+.navbar-custom{
+	background-color: lightgreen;
+	color: red;
+	font-family: sans-serif;
+}
+/* header css */
+header{
+	background-color: grey;
+	color: black;
+}
+
+.first-div{
+	margin-top: 30px;
+}
+
+/* css of id heading-one */
+#heading-one{
+	color:green;
+	text-align: left;
+}
+
+.divOne{
+	background-color: white;
+	color: black;
+}
+.first-container{
+	margin-top: 20px;
+}
+
+/* styling of paragraph inside the class first-div div*/
+.first-div p{
+	font-weight: bold;
+	background-color: yellow;
+	padding: 10px;
+}
+.first-div a{
+	font-family: sans-serif;
+	color: blue;
+}
+/* footer css */
+.footer{
+	background-color: rgba(0, 0, 0, 0.2);
+	margin-top: 80px;
+
+}
